@@ -1,2 +1,4 @@
 Otro fichero
 cambiado
+
+Aquí afegim un text.
